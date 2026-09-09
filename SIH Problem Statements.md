@@ -1,4 +1,4 @@
-# SIH 2026 SIH 
+# SIH Problem Statements
 
 This repository contains a static snapshot of the Smart India Hackathon (SIH) 2026 problem statements.
 
