@@ -1,2 +1,0 @@
-# Hackatons Problem Statements
-
